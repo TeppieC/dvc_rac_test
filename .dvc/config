@@ -1,0 +1,5 @@
+[core]
+    remote = rac_remote
+['remote "rac_remote"']
+    url = s3://test
+    endpointurl = https://swift-yyc.cloud.cybera.ca:8080
